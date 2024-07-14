@@ -1,6 +1,6 @@
 # Supervised Machine Learning
 
-Welcome to the **Supervised Machine Learning** repository! This repository is a comprehensive collection of projects, notebooks, and learning materials focused on supervised machine learning. It covers topics from foundational concepts to advanced techniques.
+Welcome to the **Supervised Machine Learning** repository!
 
 ## About This Repository
 
