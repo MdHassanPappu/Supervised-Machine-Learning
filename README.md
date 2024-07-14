@@ -15,7 +15,7 @@ Below is a list of topics with descriptions and links to the respective project 
 
 
 
-1. [Univariate Regression from Scratch with Numpy](link-to-folder)
+1. [Univariate Regression from Scratch with Numpy]([link-to-folder](https://github.com/MdHassanPappu/Supervised-Machine-Learning/blob/main/Foundation%20Notebooks/Univariant%20Regression%20from%20scrathc.ipynb))
     - Understanding of linear regression
     - Cost Function , Gradient Decent
     - Building a Linear Model using Numpy
