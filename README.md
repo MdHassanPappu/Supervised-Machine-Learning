@@ -8,47 +8,47 @@ The repository is organized into different sections, each focusing on a specific
 
 ### Topics Covered
 
-1. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Introduction to Supervised Learning](link-to-folder)
+1. <i class="fa fa-book"></i> [Introduction to Supervised Learning](link-to-folder)
     - Overview of supervised learning
     - Key concepts and terminology
     - Examples of supervised learning tasks
 
-2. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Linear Regression](link-to-folder)
+2. <i class="fa fa-line-chart"></i> [Linear Regression](link-to-folder)
     - Understanding linear regression
     - Assumptions and applications
     - Implementing linear regression in Python
 
-3. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Logistic Regression](link-to-folder)
+3. <i class="fa fa-bar-chart"></i> [Logistic Regression](link-to-folder)
     - Introduction to logistic regression
     - Binary classification problems
     - Implementing logistic regression in Python
 
-4. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Decision Trees](link-to-folder)
+4. <i class="fa fa-tree"></i> [Decision Trees](link-to-folder)
     - Basics of decision trees
     - Splitting criteria and tree pruning
     - Decision tree implementation in Python
 
-5. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Support Vector Machines (SVM)](link-to-folder)
+5. <i class="fa fa-support"></i> [Support Vector Machines (SVM)](link-to-folder)
     - Introduction to SVM
     - Kernel functions and SVM optimization
     - Implementing SVM in Python
 
-6. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Ensemble Methods](link-to-folder)
+6. <i class="fa fa-users"></i> [Ensemble Methods](link-to-folder)
     - Bagging and boosting
     - Random forests and gradient boosting
     - Implementing ensemble methods in Python
 
-7. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Neural Networks and Deep Learning](link-to-folder)
+7. <i class="fa fa-brain"></i> [Neural Networks and Deep Learning](link-to-folder)
     - Basics of neural networks
     - Deep learning architectures
     - Implementing neural networks in Python
 
-8. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Model Evaluation and Tuning](link-to-folder)
+8. <i class="fa fa-chart-line"></i> [Model Evaluation and Tuning](link-to-folder)
     - Model performance metrics
     - Cross-validation techniques
     - Hyperparameter tuning
 
-9. <img src="https://img.icons8.com/ios/50/000000/filled-topic.png"/> [Real-World Projects](link-to-folder)
+9. <i class="fa fa-cogs"></i> [Real-World Projects](link-to-folder)
     - Application of supervised learning in real-world scenarios
     - Case studies and project implementations
 
