@@ -10,10 +10,10 @@ In this repository, you will find:
 - **Notebooks:** Interactive Jupyter notebooks illustrating various concepts.
 - **Learning Materials:** Resources  from diverse educational sources.
 
-## Repository Structure
+### Topics Covered
 Below is a list of topics with descriptions and links to the respective project folders.
 
-### Topics Covered
+
 
 1. [Univariate Regression from Scratch with Numpy](link-to-folder)
     - Understanding of linear regression
