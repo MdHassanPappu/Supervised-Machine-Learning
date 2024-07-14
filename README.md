@@ -13,9 +13,9 @@ In this repository, you will find:
 ### Topics Covered
 Below is a list of topics with descriptions and links to the respective project folders.
 
+### [ 1: Linear Regression from Scratch with Numpy](Supervised ML Foundation/Linear Regression from scracth.ipynb)
 
-
-1. [Univariate Regression from Scratch with Numpy]([(https://github.com/MdHassanPappu/Supervised-Machine-Learning/blob/main/Foundation%20Notebooks/Univariant%20Regression%20from%20scrathc.ipynb)])
+1. [Linear Regression from Scratch with Numpy]([(https://github.com/MdHassanPappu/Supervised-Machine-Learning/blob/main/Foundation%20Notebooks/Univariant%20Regression%20from%20scrathc.ipynb)])
     - Understanding of linear regression
     - Cost Function , Gradient Decent
     - Building a Linear Model using Numpy
