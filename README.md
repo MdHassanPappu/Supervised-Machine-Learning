@@ -26,4 +26,4 @@ Below is a list of topics with descriptions and links to the respective project 
 To get started with the materials in this repository, you can clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/supervised-machine-learning.git
+git clone https://github.com/MdHassanPappu/supervised-machine-learning.git
